@@ -1,4 +1,4 @@
-export default class ExceptionHandler {
+export default class CustomException {
     public readonly message : string; 
     public readonly statusCode  : number;
 
